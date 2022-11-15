@@ -1,0 +1,153 @@
+body{
+	background-color:#ffc10759;
+}
+.p1{	margin:0px;
+		padding:10px;
+		font-size:18px;
+		text-indent:10%;
+		font-family:"Times New Roman", Times, Serif;
+		}
+.p2{		margin:0px;
+		padding:10px;
+		font-size:18px;
+		text-indent:10%;
+		font-family:Arial, Helvetica, sans-serif;
+		}
+.p3{	margin:0px;
+		padding:10px;
+		font-size:18px;
+		text-indent:10%;
+		font-family:"Lucida Console", "Courier New", monospace;
+		}
+.p4{	margin:0px;
+		padding:10px;
+		font-size:18px;
+		text-indent:10%;
+		font-family:"Brush Script MT", cursive;
+		}
+.p5{	margin:0px;
+		padding:10px;
+		font-size:18px;
+		text-indent:10%;
+		font-family:"copperplate", "papyrus", fantasy;
+		}
+
+.p6	{margin:0px;
+		padding:10px;
+		font-size:18px;
+		text-indent:10%;
+		font-family:"copperplate", "papyrus", fantasy;
+		font-style:normal;
+		}
+.p7	{margin:0px;
+		padding:10px;
+		font-size:18px;
+		text-indent:10%;
+		font-family:"copperplate", "papyrus", fantasy;
+		font-style:italic;
+		}
+.p8	{margin:0px;
+		padding:10px;
+		font-size:18px;
+		text-indent:10%;
+		font-family:"copperplate", "papyrus", fantasy;
+		font-style:oblique;
+		}
+.p9{	margin:0px;
+		padding:10px;
+		font-size:18px;
+		text-indent:10%;
+		font-family:"Times New Roman", Times, Serif;
+		font-weight:normal;
+		}
+.p10{	margin:0px;
+		padding:10px;
+		font-size:18px;
+		text-indent:10%;
+		font-family:"Times New Roman", Times, Serif;
+		font-weight:lighter;
+		}
+.p11{		margin:0px;
+		padding:10px;
+		font-size:18px;
+		text-indent:10%;
+		font-family:"Times New Roman", Times, Serif;
+		font-weight:bold;
+		}
+.p12{		margin:0px;
+		padding:10px;
+		font-size:18px;
+		text-indent:10%;
+		font-family:"Times New Roman", Times, Serif;
+		font-weight:bold;
+		font-variant:normal;
+		}
+.p13{		margin:0px;
+		padding:10px;
+		font-size:18px;
+		text-indent:10%;
+		font-family:"Times New Roman", Times, Serif;
+		font-weight:bold;
+		font-variant:small-caps;
+		}
+.p14{	margin:0px;
+		padding:10px;
+		font-size:5vw;
+		text-indent:10%;
+		font-family:"Times New Roman", Times, Serif;
+		}
+.p15{	margin:0px;
+		padding:10px;
+		font-size:10vw;
+		text-indent:10%;
+		font-family:"Times New Roman", Times, Serif;
+		}
+.p16{	margin:0px;
+		padding:10px;
+		font-size:10vh;
+		text-indent:10%;
+		font-family:"Times New Roman", Times, Serif;
+		}
+.p17{	margin:0px;
+		padding:10px;
+		font-size:15vh;
+		text-indent:10%;
+		font-family:"Times New Roman", Times, Serif;
+		}
+.p18{	margin:0px;
+		padding:10px;
+		font-size:2em;
+		text-indent:10%;
+		font-family:"Times New Roman", Times, Serif;
+		}
+.p19{	margin:0px;
+		padding:10px;
+		font-size:2cm;
+		text-indent:10%;
+		font-family:"Times New Roman", Times, Serif;
+		}
+.p20{	margin:0px;
+		padding:10px;
+		font-size:2rem;
+		text-indent:10%;
+		font-family:"Times New Roman", Times, Serif;
+		}
+
+.p21{	margin:0px;
+		padding:10px;
+		font-size:2px;
+		text-indent:10%;
+		font-family:"Times New Roman", Times, Serif;
+		}
+.p22{	margin:0px;
+		padding:10px;
+		font-size:35px;
+		text-indent:10%;
+		font-family: 'Dancing Script', cursive;
+		}
+.p23{	margin:0px;
+		padding:10px;
+		font-size:35px;
+		text-indent:10%;
+		font-family: FrederickatheGreat;
+		}
